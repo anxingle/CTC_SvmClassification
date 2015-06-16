@@ -1,6 +1,6 @@
 #include <iostream>
 #include <stdio.h>
-
+#include "svm.h"
 #include "ClassificationVar.h"
 
 int main()
